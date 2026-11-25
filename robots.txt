@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smileburger.github.io/sitemap.xml
